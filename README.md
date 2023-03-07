@@ -18,6 +18,9 @@ gs_bib.py需要的的包
 #### 3.文献引用和BibTex内容在results中，共有四个.txt文件：GBT 7714、MLA、APA、bibtex
 #### 4.查询异常的文献保存在log文件夹的log.txt中
 
+## 演示视频
+![img](demo.gif)
+
 ## 注意事项
 
 #### 1.注意浏览器为google chrome110.0.5481.178，其他版本可能会出错
