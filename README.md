@@ -19,7 +19,7 @@ gs_bib.py需要的的包
 #### 4.查询异常的文献保存在log文件夹的log.txt中
 
 ## 演示视频
-![image](https://github.com/yuwenhuang99/google-scholar-reference-download/blob/master/demo.gif)
+![image](https://github.com/yuwenhuang99/google-scholar-reference-download/blob/main/demo.gif)
 
 ## 注意事项
 
@@ -29,4 +29,4 @@ gs_bib.py需要的的包
 #### 4.可以下载和自己浏览器对应版本的chromedriver.exe，然后替换该目录下的chromedriver.exe
 
 ## 免责声明
-本工具只供学习交流使用，不作为任何盈利工具使用---hyw
+### 本工具只供学习交流使用，不作为任何盈利工具使用---hyw
