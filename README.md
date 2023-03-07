@@ -10,6 +10,8 @@ gs_bib.py打包成的exe可执行程序,在release中下载
 程序的图标
 ### requirements.txt
 gs_bib.py需要的的包
+### demo.gif
+演示视频
 ## 用途
 #### 下载谷歌学术的文献引用格式和BibTex
 ## 使用步骤
