@@ -19,7 +19,7 @@ gs_bib.py需要的的包
 #### 4.查询异常的文献保存在log文件夹的log.txt中
 
 ## 演示视频
-![image]([demo.gif](https://github.com/yuwenhuang99/google-scholar-reference-download/blob/main/demo.gif))
+![image](https://github.com/yuwenhuang99/google-scholar-reference-download/raw/main/demo.gif)
 
 ## 注意事项
 
