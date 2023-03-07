@@ -6,6 +6,8 @@
 主程序，如果gs_bib.exe无法运行，可以尝试运行该文件，但需要安装requirement.txt中的包
 ### gs_bib.exe
 gs_bib.py打包成的exe可执行程序
+### logo.ico
+程序的图标
 ## 用途：下载谷歌学术的文献引用格式和BibTex
 ## 使用步骤
 ### 1.将想要查询的若干文献放入input.txt中，每个文献一行
