@@ -16,7 +16,7 @@ gs_bib.py需要的的包
 #### 下载谷歌学术的文献引用格式和BibTex
 ## 使用步骤
 #### 1.将想要查询的若干文献放入input.txt中，每个文献一行
-#### 2.运行gs_bib.py
+#### 2.运行gs_bib.exe
 #### 3.文献引用和BibTex内容在results中，共有四个.txt文件：GBT 7714、MLA、APA、bibtex
 #### 4.查询异常的文献保存在log文件夹的log.txt中
 
