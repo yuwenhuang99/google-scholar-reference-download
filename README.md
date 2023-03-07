@@ -5,7 +5,7 @@
 ### gs_bib.py
 主程序，如果gs_bib.exe无法运行，可以尝试运行该文件，但需要安装requirements.txt中的包
 ### gs_bib.exe
-gs_bib.py打包成的exe可执行程序
+gs_bib.py打包成的exe可执行程序,在release中下载
 ### logo.ico
 程序的图标
 ### requirements.txt
